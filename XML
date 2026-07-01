@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://yourdomain.com/</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Main Pages -->
+    <url>
+        <loc>https://yourdomain.com/index.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/about.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/contact.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/blog.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/archive.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://yourdomain.com/articles/ai-revolutionizing-business.html</loc>
+        <lastmod>2026-06-28T10:30:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Premium Blog</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-06-28T10:30:00+00:00</news:publication_date>
+            <news:title>How AI is Revolutionizing Business</news:title>
+            <news:keywords>AI, Artificial Intelligence, Business, Machine Learning</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/ai-business.jpg</image:loc>
+            <image:title>AI Revolutionizing Business</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/crypto-investment-guide.html</loc>
+        <lastmod>2026-06-27T14:15:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Premium Blog</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-06-27T14:15:00+00:00</news:publication_date>
+            <news:title>Cryptocurrency Investment Guide</news:title>
+            <news:keywords>Crypto, Bitcoin, Investment, Blockchain, Ethereum</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/crypto-guide.jpg</image:loc>
+            <image:title>Cryptocurrency Investment Guide</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/seo-strategies-2024.html</loc>
+        <lastmod>2026-06-26T09:45:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Premium Blog</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-06-26T09:45:00+00:00</news:publication_date>
+            <news:title>SEO Strategies 2024</news:title>
+            <news:keywords>SEO, Search Engine, Optimization, Google, Ranking</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/seo-strategies.jpg</image:loc>
+            <image:title>SEO Strategies 2024</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/web-development-trends.html</loc>
+        <lastmod>2026-06-25T11:20:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Premium Blog</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-06-25T11:20:00+00:00</news:publication_date>
+            <news:title>Web Development Trends</news:title>
+            <news:keywords>Web, Development, Programming, JavaScript, Frontend</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/web-dev-trends.jpg</image:loc>
+            <image:title>Web Development Trends</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/cloud-computing-guide.html</loc>
+        <lastmod>2026-06-24T15:30:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Premium Blog</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-06-24T15:30:00+00:00</news:publication_date>
+            <news:title>Cloud Computing Guide</news:title>
+            <news:keywords>Cloud, Computing, Infrastructure, AWS, Azure</news:keywords>
+        </news:news>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/cloud-computing.jpg</image:loc>
+            <image:title>Cloud Computing Guide</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/python-programming-guide.html</loc>
+        <lastmod>2026-06-23T13:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/python-guide.jpg</image:loc>
+            <image:title>Python Programming Guide</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/machine-learning-basics.html</loc>
+        <lastmod>2026-06-22T10:15:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/machine-learning.jpg</image:loc>
+            <image:title>Machine Learning Basics</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/startup-guide.html</loc>
+        <lastmod>2026-06-21T08:30:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/startup-guide.jpg</image:loc>
+            <image:title>Startup Guide for Entrepreneurs</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/digital-marketing-trends.html</loc>
+        <lastmod>2026-06-20T12:45:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/digital-marketing.jpg</image:loc>
+            <image:title>Digital Marketing Trends</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/articles/cybersecurity-practices.html</loc>
+        <lastmod>2026-06-19T16:20:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://yourdomain.com/images/cybersecurity.jpg</image:loc>
+            <image:title>Cybersecurity Best Practices</image:title>
+        </image:image>
+    </url>
+
+    <!-- Categories -->
+    <url>
+        <loc>https://yourdomain.com/category/technology.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/category/business.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/category/finance.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/category/programming.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/category/marketing.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Legal and Policy Pages -->
+    <url>
+        <loc>https://yourdomain.com/privacy-policy.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/terms-conditions.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/disclaimer.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/cookie-policy.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/dmca.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Support Pages -->
+    <url>
+        <loc>https://yourdomain.com/faq.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://yourdomain.com/404.html</loc>
+        <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
